@@ -157,18 +157,9 @@ See all of our important links [here](https://subsocial.network/links).
 
 [Privacy Policy](https://app.subsocial.network/legal/privacy)
 
-## Token claim for DOT / KSM token holders
+## Token claim for DOT / KSM token holders has ended.
+Egligible participants, claimed the tokens in 4 rounds, where the last and fourth round started and ended at 4:04 PM UTC+0, November 4th.
 
-### When were the snapshots of DOT and KSM Balances taken?
-
-Two snapshots were taken for both Polkadot and Kusama, on April 15th, 2021 and May 21st, 2021.
-
-Here are the [April 15th DOT snapshot](https://drive.google.com/file/d/1d177ZlVOk1tZ1-ZDJ_Xj2ihIW3SWT1j4/view?usp=sharing) and the [May 21st DOT snapshot](https://drive.google.com/file/d/199h60T9lZapmSOFvIfCaXNAS__DZPszI/view?usp=sharing), and the 
-[April 15th KSM snapshot](https://drive.google.com/file/d/17F4ZhLtpIaQ1OKCn1r67GwuJzJJngwKC/view?usp=sharing) and the [May 21st KSM snapshot](https://drive.google.com/file/d/1iXz2cRIC3t7k0vlvmV37JJMjszFloYLS/view?usp=sharing).
-
-### When will eligible participants be able to claim their Subsocial tokens?
-
-The date is not announced yet. Follow our [announcements channel](/docs/faq/overview#do-you-have-an-announcement-channel) to keep updated.
 
 ## Token claim for Uptrennd (1UP) token holders
 
