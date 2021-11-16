@@ -3,6 +3,8 @@ id: token-claim
 title: Token Claim FAQ
 ---
 
+## Note: This Claim has ended, the last and fourth round was on November 4th at 4:04 PM UTC+0, the next way to get tokens is from Kusama Crowdloans.
+
 ## What accounts are eligible for the token claim?
 Eligibility is based on two snapshots of DOT and KSM holders from April 15th and May 21st, 2021. 
 To be eligible, an account must have held at least 1 DOT during both snapshots, or at least 0.1 KSM during both snapshots. 
