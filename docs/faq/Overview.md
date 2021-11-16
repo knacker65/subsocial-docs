@@ -42,6 +42,10 @@ With social networks built on Subsocial, users will actually be able to capture 
 like tipping, subscriptions, social tokens, selling ad space, and more. Additionally, Subsocial will feature an algorithm marketplace, 
 letting users be in control of the content they see.
 
+## How does Subsocial store user’s content and data?
+
+Subsocial uses the InterPlanetary File System (IPFS) to store user’s content. To learn more about how IPFS fits into the Subsocial stack, check out this [article](https://app.subsocial.network/@cryptoswim/how-ipfs-fits-into-the-subsocial-stack-15671).
+
 ## I am having trouble figuring out how to use Subsocial. What can I do?
 Subsocial is still in its beta phase, and we are working on improving the user interface and experience.
 If you have any questions, please reach out to us in our [Telegram](http://t.me/Subsocial) or [Discord](http://discord.gg/w2Rqy2M) chats.
@@ -180,6 +184,3 @@ The [1UP snapshot](https://drive.google.com/file/d/1eYTauxqQjotAU7nzq59TPe7Jc6wA
 
 The date is not announced yet. Follow our [announcements channel](/docs/faq/overview#do-you-have-an-announcement-channel) to keep updated.
 
-## How does Subsocial store user’s content and data?
-
-Subsocial uses the InterPlanetary File System (IPFS) to store user’s content. To learn more about how IPFS fits into the Subsocial stack, check out this [article](https://app.subsocial.network/@cryptoswim/how-ipfs-fits-into-the-subsocial-stack-15671).
